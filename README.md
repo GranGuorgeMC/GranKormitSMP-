@@ -1,40 +1,35 @@
-# GranKormitSMP-
+GRAN,KORMIT SMP SERVER RULES 
 
-**SERVER RULES**
-
-TAGALOG VERSION
-Mga kaylangan 
-
+ENGLISH VERSION
+NEEDED
 Minecraft 1.17.30 +
-
 Gametag 
 
-**RULES**
+RULES 
 
-• *Bawal cheat at toolbox* 
+• No cheating and  hacks 
 
-• *Bawal trastalk at toxic*
+• No trashtalk and toxixity 
 
-• *Bawal manira Ng Bahay* 
+• No greifing (destruction) 
 
-• *Bawal pumasok or kumuha Ng gamit 
--Puydi sa genarator chess* 
+• No stealing from others 
 
-• *Bawal pvp at pumatay Ng Wala rason*
+• No pvp for no reason outside the pvp arena 
 
-• *Bawal gumawa Ng tower na block or mag replace Ng block para mangulo* 
+AND DO NOT ASK THE ADMINS FOR CREATIVE MODE
 
-° *Bawal gumamit nang tnt*
 
-Kapag di sunumunod Hindi pwd mag mine or build pati mag craft 
 
-Mga A✅
 
-• 'Pwde gumawa Bahay✅'
 
-• Pwde mag mine at mag craft✅
+IF YOU DONT FOLLOW THE GODDAM RULES WE WILL BAN YOU!!! 
 
-• Pwde humingi Ng item✅
+A.
+• Make buildings
+• Exploit natural resources
+• Explore endlessly
+• 
 
-• Pwde mag explore pero Kasama✅
+
 
