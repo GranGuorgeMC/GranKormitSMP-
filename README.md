@@ -1,35 +1,30 @@
-GRAN,KORMIT SMP SERVER RULES 
+# GrankormitSMP
+**HOW TO JOIN?**
+First join to **GranX** SERVER
 
-ENGLISH VERSION
-NEEDED
-Minecraft 1.17.30 +
-Gametag 
+if your not already join the GranX
 
-RULES 
+Here's the ip and port
 
-• No cheating and  hacks 
+`Server name - (anyname) GranX`
 
-• No trashtalk and toxixity 
+`Ip - gb1.hokus.me`
 
-• No greifing (destruction) 
+`Port - 26050`
 
-• No stealing from others 
+When your already join
 
-• No pvp for no reason outside the pvp arena 
-
-AND DO NOT ASK THE ADMINS FOR CREATIVE MODE
+Go to NPC servers selector
 
 
-
-
-
-IF YOU DONT FOLLOW THE GODDAM RULES WE WILL BAN YOU!!! 
 
 A.
+
 • Make buildings
+
 • Exploit natural resources
+
 • Explore endlessly
-• 
 
 
 
