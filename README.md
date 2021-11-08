@@ -1,6 +1,7 @@
 GRAN,KORMIT SMP SERVER RULES 
 
-ENGLISH VERSION
+ENGLISH VERSION [CLICK HERE FOR TAGALOG VERSION](https://github.com/GranGuorgeMC/GranKormitSMP-/tree/Master)
+
 NEEDED
 Minecraft 1.17.30 +
 Gametag 
