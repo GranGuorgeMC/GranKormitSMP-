@@ -2,35 +2,50 @@ GRAN,KORMIT SMP SERVER RULES
 
 ENGLISH VERSION [CLICK HERE FOR TAGALOG VERSION](https://github.com/GranGuorgeMC/GranKormitSMP-/tree/Master)
 
-NEEDED
-Minecraft 1.17.30 +
+**NEEDED**
+Minecraft 1.18 +
+Age - 11+ 
 Gametag 
 
-RULES 
+**ADDON: ONE PLAYER SLEEP,
+BOAT IN CHESS, others**
 
-• No cheating and  hacks 
+**RULES**
 
-• No trashtalk and toxixity 
+• No cheating and hacks/toolbox/horion/hack client🚫
 
-• No greifing (destruction) 
+• No trashtalk and toxixity🚫
 
-• No stealing from others 
+• No greifing (destruction)🚫
 
-• No pvp for no reason outside the pvp arena 
+• No stealing from others🚫
 
-AND DO NOT ASK THE ADMINS FOR CREATIVE MODE
+• No pvp for no reason outside the pvp arena🚫
 
+• **AND NO ASKING FROM ADMIN FOR CREATIVE MODE**
 
-
-
-
-IF YOU DONT FOLLOW THE GODDAM RULES WE WILL BAN YOU!!! 
+**IF YOU DONT FOLLOW THE GODDAM RULES WE WILL BAN YOU!!!**
 
 A.
-• Make buildings
-• Exploit natural resources
-• Explore endlessly
-• 
 
+• Make buildings✅
+
+• Exploit natural resources✅
+
+• Explore endlessly✅ 
+
+ADMINS IS MONITORING YOU ✅ 
+
+**Owner**
+
+GranGuorgeMC, RegiePH(developer)✅
+
+Kormit2000(normal owner)✅ 
+
+**ADMIN**
+
+RedstoneTech(Helper)✅
+
+RaffyplayzBG(spy)✅
 
 
