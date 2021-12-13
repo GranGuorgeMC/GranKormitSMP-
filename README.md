@@ -5,7 +5,7 @@
 TAGALOG VERSION
 Mga kaylangan 
 
-Minecraft 1.17.30 +
+Minecraft 1.18
 
 Gametag 
 
