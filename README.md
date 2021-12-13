@@ -3,9 +3,11 @@ GRAN,KORMIT SMP SERVER RULES
 ENGLISH VERSION [CLICK HERE FOR TAGALOG VERSION](https://github.com/GranGuorgeMC/GranKormitSMP-/tree/Master)
 
 **NEEDED**
+
 Minecraft 1.18 +
 
 Age - 11+ 
+
 Gametag 
 
 **ADDON: ONE PLAYER SLEEP,
@@ -35,7 +37,10 @@ A.
 
 • Explore endlessly✅ 
 
-ADMINS IS MONITORING YOU ✅ 
+
+**DETAILS**: **FLYING AUTO KICK**,
+
+**HAKING ITEMS** **AUTO KICK**,
 
 **Owner**
 
@@ -48,5 +53,7 @@ Kormit2000(normal owner)✅
 RedstoneTech(Helper)✅
 
 RaffyplayzBG(spy)✅
+
+**ADMINS IS MONITORING YOU ✅** other admin use toolbox for monitoring 
 
 
