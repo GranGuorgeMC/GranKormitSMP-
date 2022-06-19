@@ -2,7 +2,7 @@
 
 ### **NEEDED**
 
-Minecraft 1.19.
+Minecraft 1.19
 > Outdated client? [Download our Latest Release](https://guormit.cf/get/minecraft/latest)
 
 Age - 12+ 
