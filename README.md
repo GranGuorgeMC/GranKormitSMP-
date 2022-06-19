@@ -52,4 +52,6 @@ Gametag
 
 > **ADMINS IS MONITORING ALL MEMBERS** Other admin use toolbox for monitoring 
 
-
+## SERVER IP DETAILS
+> IP - play.millionaireCraft.cf
+> PORT - 19132
