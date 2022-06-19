@@ -1,6 +1,6 @@
 # **MCS** SERVER RULES 
 
-**NEEDED**
+### **NEEDED**
 
 Minecraft 1.19
 
@@ -10,7 +10,7 @@ Gametag
 
 **ADDON: ONE PLAYER SLEEP, others**
 
-**RULES**
+## **RULES**
 
 • No cheating and hacks/toolbox/horion/hack client🚫
 
