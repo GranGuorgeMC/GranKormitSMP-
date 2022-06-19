@@ -1,4 +1,4 @@
-GRAN,KORMIT SMP SERVER RULES 
+**MCS** SERVER RULES 
 
 ENGLISH VERSION [CLICK HERE FOR TAGALOG VERSION](https://github.com/GranGuorgeMC/GranKormitSMP-/tree/Master)
 
