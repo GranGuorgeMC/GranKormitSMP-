@@ -26,7 +26,7 @@ Gametag
 
 **IF YOU DONT FOLLOW THE GODDAM RULES WE WILL BAN YOU!!!**
 
-A.
+### A
 
 • Make buildings✅
 
@@ -39,7 +39,7 @@ A.
 
 **HAKING ITEMS** **AUTO KICK**,
 
-**Owner**
+### Owner
 
 GranGuorgeMC, RegiePH(developer)✅
 
