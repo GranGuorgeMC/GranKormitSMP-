@@ -41,15 +41,13 @@ Gametag
 
 ### Owner
 
-GranGuorgeMC, RegiePH(developer)✅
+> GranGuorgeMC (developer)
+> Kormit2000(normal owner)
 
-Kormit2000(normal owner)✅ 
+### ADMIN
 
-**ADMIN**
-
-RedstoneTech(Helper)✅
-
-RaffyplayzBG(spy)✅
+> RedstoneTech(Helper)
+> RaffyplayzBG(spy)
 
 **ADMINS IS MONITORING YOU ✅** other admin use toolbox for monitoring 
 
