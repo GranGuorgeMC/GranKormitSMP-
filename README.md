@@ -1,20 +1,16 @@
 **MCS** SERVER RULES 
 
-ENGLISH VERSION [CLICK HERE FOR TAGALOG VERSION](https://github.com/GranGuorgeMC/GranKormitSMP-/tree/Master)
-
 **NEEDED**
 
-Minecraft 1.18 +
+Minecraft 1.19
 
-Age - 11+ 
+Age - 12+ 
 
 Gametag 
 
-**ADDON: ONE PLAYER SLEEP,
-BOAT IN CHESS, others**
+**ADDON: ONE PLAYER SLEEP, others**
 
 **RULES**
-
 • No cheating and hacks/toolbox/horion/hack client🚫
 
 • No trashtalk and toxixity🚫
