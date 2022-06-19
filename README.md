@@ -1,4 +1,4 @@
-**MCS** SERVER RULES 
+# **MCS** SERVER RULES 
 
 **NEEDED**
 
