@@ -35,11 +35,6 @@ Gametag
 
 • Explore endlessly✅ 
 
-
-**DETAILS**: **FLYING AUTO KICK**,
-
-**HAKING ITEMS** **AUTO KICK**,
-
 ## Owner
 
 > GranGuorgeMC (developer)
