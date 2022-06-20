@@ -2,12 +2,11 @@
 
 ## **NEEDED**
 
-Minecraft 1.19
+- Minecraft 1.19
 > Outdated client? [Download our Latest Release](https://guormit.cf/get/minecraft/latest)
 
-Age - 12+ 
-
-Gametag 
+- Age - 12+ 
+- Gamertag 
 
 **ADDON: ONE PLAYER SLEEP, others**
 
@@ -45,8 +44,7 @@ Gametag
 > RedstoneTech(Helper)
 > RaffyplayzBG(spy)
 
-> **ADMINS IS MONITORING ALL MEMBERS** Other admin use toolbox for monitoring 
-
+> **ADMINS IS MONITORING ALL MEMBERS**.  Other admin use toolbox for monitoring .
 ### SERVER IP DETAILS
 > IP - play.millionaireCraftsmp.cf
 > PORT - 19132
