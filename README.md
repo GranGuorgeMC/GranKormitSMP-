@@ -1,6 +1,6 @@
 # **MCS** SERVER RULES 
 
-### **NEEDED**
+## **NEEDED**
 
 Minecraft 1.19
 > Outdated client? [Download our Latest Release](https://guormit.cf/get/minecraft/latest)
@@ -40,18 +40,18 @@ Gametag
 
 **HAKING ITEMS** **AUTO KICK**,
 
-### Owner
+## Owner
 
 > GranGuorgeMC (developer)
 > Kormit2000(normal owner)
 
-### ADMIN
+## ADMIN
 
 > RedstoneTech(Helper)
 > RaffyplayzBG(spy)
 
 > **ADMINS IS MONITORING ALL MEMBERS** Other admin use toolbox for monitoring 
 
-## SERVER IP DETAILS
+### SERVER IP DETAILS
 > IP - play.millionaireCraft.cf
 > PORT - 19132
