@@ -37,14 +37,18 @@
 ## Owner
 
 > GranGuorgeMC (developer)
+
 > Kormit2000(normal owner)
 
 ## ADMIN
 
 > RedstoneTech(Helper)
+
 > RaffyplayzBG(spy)
 
 > **ADMINS IS MONITORING ALL MEMBERS**.  Other admin use toolbox for monitoring .
 ### SERVER IP DETAILS
+
 > IP - play.millionaireCraftsmp.cf
+
 > PORT - 19132
