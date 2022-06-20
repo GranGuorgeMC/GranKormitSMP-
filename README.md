@@ -12,28 +12,28 @@ Gametag
 **ADDON: ONE PLAYER SLEEP, others**
 
 ## **RULES**
+### Not allowed❌
+> Cheating and hacks/toolbox/horion/hack-client
 
-• No cheating and hacks/toolbox/horion/hack client🚫
+> Trashtalk and toxixity
 
-• No trashtalk and toxixity🚫
+> Greifing(destruction)
 
-• No greifing (destruction)🚫
+> Stealing from others
 
-• No stealing from others🚫
+> PVP for no reason
 
-• No pvp for no reason outside the pvp arena🚫
+> **AND NO ASKING FROM ADMIN FOR CREATIVE MODE**
 
-• **AND NO ASKING FROM ADMIN FOR CREATIVE MODE**
+> **IF YOU DONT FOLLOW THE GODDAM RULES WE WILL BAN YOU!!!**
 
-**IF YOU DONT FOLLOW THE GODDAM RULES WE WILL BAN YOU!!!**
+### Allowed✅
 
-### A
+> Make buildings
 
-• Make buildings✅
+> Exploit natural resources
 
-• Exploit natural resources✅
-
-• Explore endlessly✅ 
+> Explore endlessly
 
 ## Owner
 
@@ -48,5 +48,5 @@ Gametag
 > **ADMINS IS MONITORING ALL MEMBERS** Other admin use toolbox for monitoring 
 
 ### SERVER IP DETAILS
-> IP - play.millionaireCraft.cf
+> IP - play.millionaireCraftsmp.cf
 > PORT - 19132
