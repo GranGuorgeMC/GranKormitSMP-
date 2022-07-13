@@ -1,4 +1,4 @@
-# **MCS** SERVER RULES 
+# **MLS** SERVER RULES 
 
 ## **NEEDED**
 
@@ -44,9 +44,13 @@
 
 ## ADMIN
 
-> RedstoneTech(Helper)
+> RedstoneTech(moderator)
 
-> RaffyplayzBG(spy)
+> Dreem5748(moderator)
+
+> Server(spy)
+
+>2 others
 
 > **ADMINS IS MONITORING ALL MEMBERS**.  Other admin use toolbox for monitoring .
 ### SERVER IP DETAILS
