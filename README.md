@@ -59,4 +59,4 @@
 
 > PORT - 
 
-> (Direct join)[https://join.moonlightsmp.guormit.cf]
+> [Direct join](https://join.moonlightsmp.guormit.cf)
