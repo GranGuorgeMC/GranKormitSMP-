@@ -55,6 +55,8 @@
 > **ADMINS IS MONITORING ALL MEMBERS**.  Other admin use toolbox for monitoring .
 ### SERVER IP DETAILS
 
-> IP - play.millionaireCraftsmp.cf
+> IP - 
 
-> PORT - 19132
+> PORT - 
+
+> (Direct join)[https://join.moonlightsmp.guormit.cf]
